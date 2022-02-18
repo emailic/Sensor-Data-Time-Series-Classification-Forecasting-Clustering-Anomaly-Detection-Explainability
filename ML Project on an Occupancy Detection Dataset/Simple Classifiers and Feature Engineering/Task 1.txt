@@ -1,0 +1,15 @@
+Project Task 1 - Basic Classifiers and Evaluation
+
+Prepare the dataset in order to build several basic classifiers able to predict room occupancy from the available variables.
+You are welcome in creating new variables.
+
+Solve the classification task with k-NN (testing values of k), Naive Bayes, Logistic Regression,
+Decision Tree using cross-validation and/or random/grid search for parameter estimation.
+
+Select two continuous attributes, define a regression problem and try to solve it using
+different techniques reporting various evaluation measures. Plot the two-dimensional dataset.
+Then generalize to multiple linear regression and observe how the performance varies.
+
+Evaluate each classifier using Accuracy, Precision, Recall, F1, ROC, AUC and Lift Chart.
+
+Draw your conclusions about the basic classifiers and techniques adopted in this analysis.

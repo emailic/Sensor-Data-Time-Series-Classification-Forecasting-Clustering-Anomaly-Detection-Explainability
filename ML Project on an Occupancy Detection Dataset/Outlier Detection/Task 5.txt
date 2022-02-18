@@ -1,0 +1,7 @@
+From the original dataset (i.e. not the time series built on Task 3 or sequences of Task 4, nor the preprocessed dataset used in Tasks 1 and 2),
+identify the top 1% outliers.
+Adopt at least three different methods belonging to different families
+(i.e. statistical/depth-based, distance-based, density-based, angle-based, …) and compare the results.
+
+(Optional) Try to use an explanation method to illustrate the reasons for the classification in one of the steps of the previous Tasks
+(if you want to try LORE please ask the code to riccardo.guidotti@unipi.it).

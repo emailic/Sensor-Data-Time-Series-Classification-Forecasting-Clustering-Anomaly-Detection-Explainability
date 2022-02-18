@@ -1,0 +1,13 @@
+Project Task 2 - Advanced Classifiers and Evaluation
+
+Using the dataset for classification prepared for Task 1 build several advanced classifiers able to predict room
+occupancy from the available variables. In particular, you are required to use 
+Ensemble Classifier (RandomForest, AdaBoost and a Bagging technique in which you can select a base classifier
+of your choice with a justification).
+
+Evaluate each classifier using Accuracy, Precision, Recall, F1, ROC, etc; Draw your conclusion about the classifiers.
+Highlight in the report different aspects typical of each classifier. For instance
+How many iterations/base classifiers are needed to allow a good estimation
+using an ensemble method? Which is the feature importance for the Random Forest?
+
+You are NOT required to experiment also in the imbalanced case but if you do it is not considered a mistake.

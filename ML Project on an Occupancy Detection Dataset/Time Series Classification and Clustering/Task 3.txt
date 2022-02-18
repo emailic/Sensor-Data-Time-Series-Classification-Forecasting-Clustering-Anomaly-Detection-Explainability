@@ -1,0 +1,12 @@
+Exploit the temporal information of the dataset preparing it for a univariate framework of analysis,
+i.e. select a feature and use it as your time series. You are welcome in using more than one reliable temporal
+split to have more time series of the same feature. You are welcome in creating more than a dataset using more than
+a feature and report the result on the feature you prefer or more than one.
+
+Apply forecasting methods on the dataset(s) created. Make sure to preprocess adequately the time series
+according to the method used (e.g., an exponential smoothing or an autoregression),
+indeed checking stationarity and reducing trends and seasonality or with the help of a statistically significant test;
+
+Solve the classification task considering the whole dataset as a multivariate dataset.
+Develop the classification process you prefer (CNN, or RNN)
+to maximize accuracy and F1-score.
