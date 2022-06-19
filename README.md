@@ -1,5 +1,5 @@
 # AdvancedDataMining
-In this repository you may find data and code used for a machine learning project done in collaboration with my colleagues Lorenzo Ferri and Roberta Pappolla. 
+In this repository you may find data and code used for a machine learning project done in collaboration with my colleagues Lorenzo Ferri and Roberta Pappolla at the University of Pisa. 
 
 This is an analysis of the 'Room Occupancy Dataset' with the purpose of predicting whether a person is present in the room or not solely based on the quantity of light, CO2, humidity, etc. Project was a compulsory part of the Data Mining II: Advanced Topics and Applications university course. 
 -Advanced Classification (SVM,SVC, Convolutional and Recurrent NN, Deep NN,
