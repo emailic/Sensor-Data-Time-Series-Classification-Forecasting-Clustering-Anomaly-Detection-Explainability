@@ -12,3 +12,11 @@ Ensemble Classifiers…) & Clustering (K-Means, DB Scan, Transactional C.)
 -Principal Component Analysis (PCA)
 -Explainable Machine Learning
 -Imbalanecd Learning
+
+Find the report in the .pdf file in this repository.
+Any contribution  is welcome! 
+<div align="center">
+
+### Show some 💚 by starring this repository!
+
+</div>
